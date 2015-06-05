@@ -1,0 +1,21 @@
+{
+  "name": "jquery-sortable-lists",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/camohub/jquery-sortable-lists.git"
+  },
+  "description": "jQuery plugin to sorting lists also the tree structures",
+  "bugs": {
+    "url": "https://github.com/camohub/jquery-sortable-lists/issues"
+  },
+  "homepage": "http://camohub.github.io/jquery-sortable-lists/index.html",
+  "main": "jquery-sortable-lists.js",
+  "keywords": [
+    "sortable",
+    "drag&drop",
+    "list"
+  ],
+  "author": "Vladimír Čamaj",
+  "license": "GNU"
+}
